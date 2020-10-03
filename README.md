@@ -3,6 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+## About The App
+
+This app will use [Spotify API](https://developer.spotify.com/documentation/) to build a website that allows users to search the Spotify library, create a custom playlist, then save it to your own Spotify account.
+
 ## Installation
 To run the app successfully, you’ll need to
 
@@ -42,6 +46,12 @@ Back in the command line, from the Jammming project’s root directory, run:
 ### `$ surge`
 
 Follow the steps on the screen. Change the domain value to your new URI.
+
+## Trying The App
+
+If you want to try the app, the link provided below is to lookup how the app will look like. The app will fully functional to add a new playlist to my spotify account, so please don't try to abuse my spotify playlist. Thank you
+
+[nyomanadi-spotify.surge.sh/](nyomanadi-spotify.surge.sh/)
 
 ## Table of Contents
 
