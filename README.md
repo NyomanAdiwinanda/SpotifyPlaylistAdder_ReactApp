@@ -19,7 +19,7 @@ Start the Create React App server, run:
 ### `npm start`
 
 ## How To Deploy The App (Optional)
-you will use [surge](https://surge.sh/) to deploy your Jammming project.
+you will use [surge](https://surge.sh/) to deploy your project.
 
 You will start by installing surge globally.
 
